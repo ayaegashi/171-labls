@@ -1,0 +1,27 @@
+.city-label {
+    font-size: 11px;
+    text-anchor: middle;
+}
+
+.city-circle {
+    fill: cadetblue;
+    opacity: 0.6;
+    stroke: darkcyan;
+}
+
+.label {
+    margin-top: 2em;
+}
+
+svg {
+    background-color: lavenderblush;
+}
+
+body {
+    padding: 2em;
+    background-color: lavenderblush;
+}
+
+h1, h3 {
+    color: darkcyan;
+}
