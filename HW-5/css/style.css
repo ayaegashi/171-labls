@@ -1,0 +1,31 @@
+
+.container {
+    justify-content: center;
+    fill: tan;
+    text-align: center;
+}
+
+.row {
+    margin-top: 2em;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.tooltip-text {
+    fill: black;
+}
+
+#pop-text {
+    font-weight: bolder;
+}
+
+.title {
+    font-weight: bold;
+    fill: saddlebrown;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.textPercentages {
+    font-size: 12px;
+}
